@@ -1,4 +1,14 @@
+body {
+    background-color: gray;
+}
+
 h1 {
     text-align: center;
 }
 
+#button {
+    background-color: black;
+    color: white;
+    width: 10em;
+    height: 5em;
+}
